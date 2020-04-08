@@ -13,7 +13,7 @@ header {
 }
 
 header, blockquote {
-  font-family: 'Abril Fatface', cursive;
+  font-family: "Abril Fatface", cursive;
 }
 
 h1 {
@@ -51,7 +51,7 @@ h3 {
   font-size: 27px;
   font-weight: bold;
   padding-bottom: 0;
-  margin-botom: 0;
+  margin-bottom: 0;
   margin: 20px 50px 0 50px;
   line-height: 1.5em;
 }
