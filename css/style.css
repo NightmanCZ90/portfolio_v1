@@ -386,7 +386,11 @@ header {
 .portfolio__item {
   background: var(--clr-accent);
   overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
 
 .portfolio__img {
   object-fit: cover;
